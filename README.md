@@ -187,17 +187,6 @@ The simulation updates at a fixed rate of 5 ticks per second, ensuring determini
 
 ---
 
-## Screenshots
-
-Add screenshots of:
-
-* Main Dashboard
-* Running Simulation
-* Hazard Management
-* Dispatch Strategies
-* Runtime Configuration Panel
-
----
 
 ## Academic Context
 
